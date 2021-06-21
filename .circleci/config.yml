@@ -5,3 +5,5 @@ jobs:
       - image: circleci/node:latest
     steps:
       - run: echo "hello world!"
+      
+# cheekit-test has left from this org
